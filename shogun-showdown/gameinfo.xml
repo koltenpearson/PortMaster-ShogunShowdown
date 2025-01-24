@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./shogun-showdown.sh</path>
+    <name>Shogun Showdown</name>
+    <desc>Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shogun! </desc>
+    <image>./shogun-showdown/splash.png</image>
+    <releasedate>20240905T000000</releasedate>
+    <developer>Roboatino</developer>
+    <publisher>Goblinz Publishing, Gamera Games</publisher>
+    <genre>tatical turn-based roguelike deckbuilder</genre>
+  </game>
+</gameList>

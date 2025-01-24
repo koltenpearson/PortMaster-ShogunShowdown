@@ -1,0 +1,26 @@
+back = m
+start = esc
+a = enter
+b = s
+x = space
+y = w
+l1 = \"
+l2 = a
+l3 = \"
+r1 = i
+r2 = d
+r3 = mouse_left
+up = up
+down = down
+left = left
+right = right
+left_analog_up = \"
+left_analog_down = \"
+left_analog_left = \"
+left_analog_right = \"
+right_analog_up = mouse_movement_up 
+right_analog_down = mouse_movement_down
+right_analog_left = mouse_movement_left
+right_analog_right = mouse_movment_right
+
+mouse_scale = 4000
