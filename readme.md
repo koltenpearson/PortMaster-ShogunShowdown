@@ -6,7 +6,7 @@ Retroid Pocket 5 with Rocknix linux
 ## Installation
 
 Copy the `shogun-showdown` folder and the `shogun-showdown.sh` to be under
-`/rom/ports. Then purchase and install the game on GOG (haven't tested if
+`/rom/ports`. Then purchase and install the game on GOG (haven't tested if
 Steam works or not), and copy its data (under `game`) to `shogun-showdown/data`
 
 If you want the emulationstation decorations, merge the content of
